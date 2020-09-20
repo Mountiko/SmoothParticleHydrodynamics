@@ -1,0 +1,17 @@
+// top left/right corner followed by bottom right/left corner
+// first coordinate needs to be inside domain
+// define any number of squares using only two coords each 
+wet domain:
+0 4
+17 0
+0 7
+3 4
+# // keep the hash!!!
+
+velocity:
+0 0
+# // keep the hash!!!
+
+density[kg/m3]:
+1000
+# // keep the hash!

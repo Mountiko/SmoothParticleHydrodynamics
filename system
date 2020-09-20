@@ -1,0 +1,24 @@
+h_fac:
+1.3
+# // keep the hash!
+
+timestep[s]:
+0.001
+# // keep the hash!
+
+end time[s]:
+30
+# // keep the hash!
+
+gamma[-]:
+7
+# // keep the hash!
+
+time stepping method: (Euler, Improved Euler)
+Euler
+# // keep the hash!
+
+adaptive time stepping:
+false
+# // keep the hash!
+

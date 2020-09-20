@@ -1,0 +1,20 @@
+// please specify coordinates in anti clockwise order
+boundary[m]:
+0 0
+5 0
+20 5
+20 10
+0 10
+# // keep the hash!
+
+dx[m]:
+0.2
+# // keep the hash!
+
+viscosity[Ns/m2]:
+0.0010016
+# // keep the hash!
+
+speed of sound[m/s]:
+20
+# // keep the hash!
